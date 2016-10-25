@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xmeml version="1">
+    <sequence>
+        <name>resAUnance - iMovie</name>
+        <rate>
+            <ntsc>TRUE</ntsc>
+            <timebase>30</timebase>
+        </rate>
+        <media>
+            <video>
+                <track>
+                    <clipitem>
+                        <file id="/Users/michaelmcneill/Movies/iMovie Events.localized/New Event/Migration 1.mov">
+                            <pathurl>file://localhost/Users/michaelmcneill/Movies/iMovie%20Events.localized/New%20Event/Migration%201.mov</pathurl>
+                            <duration>12469</duration>
+                            <name>Migration 1.mov</name>
+                            <rate>
+                                <ntsc>TRUE</ntsc>
+                                <timebase>30</timebase>
+                            </rate>
+                            <media>
+                                <video></video>
+                                <audio></audio>
+                            </media>
+                        </file>
+                        <name>Migration 1.mov</name>
+                        <duration>12469</duration>
+                        <start>0</start>
+                        <end>-1</end>
+                        <in>0</in>
+                        <out>1109</out>
+                        <rate>
+                            <ntsc>TRUE</ntsc>
+                            <timebase>30</timebase>
+                        </rate>
+                        <link>
+                            <mediatype>video</mediatype>
+                            <trackindex>1</trackindex>
+                            <clipindex>1</clipindex>
+                        </link>
+                        <link>
+                            <mediatype>audio</mediatype>
+                            <trackindex>1</trackindex>
+                            <clipindex>1</clipindex>
+                            <groupindex>1</groupindex>
+                        </link>
+                        <link>
+                            <mediatype>audio</mediatype>
+                            <trackindex>2</trackindex>
+                            <clipindex>1</clipindex>
+                            <groupindex>1</groupindex>
+                        </link>
+                    </clipitem>
+                    <transitionitem>
+                        <start>968</start>
+                        <end>1109</end>
+                        <alignment>center</alignment>
+                        <effect>
+                            <name>Cross Dissolve</name>
+                            <effectid>Cross Dissolve</effectid>
+                            <effecttype>transition</effecttype>
+                            <mediatype>video</mediatype>
+                            <effectcategory>Dissolve</effectcategory>
+                        </effect>
+                    </transitionitem>
+                    <clipitem>
+                        <file id="/Users/michaelmcneill/Movies/iMovie Events.localized/New Event/Interlude.mov">
+                            <pathurl>file://localhost/Users/michaelmcneill/Movies/iMovie%20Events.localized/New%20Event/Interlude.mov</pathurl>
+                            <duration>6904</duration>
+                            <name>Interlude.mov</name>
+                            <rate>
+                                <ntsc>TRUE</ntsc>
+                                <timebase>30</timebase>
+                            </rate>
+                            <media>
+                                <video></video>
+                                <audio></audio>
+                            </media>
+                        </file>
+                        <name>Interlude.mov</name>
+                        <duration>6904</duration>
+                        <start>-1</start>
+                        <end>-1</end>
+                        <in>1243</in>
+                        <out>2496</out>
+                        <rate>
+                            <ntsc>TRUE</ntsc>
+                            <timebase>30</timebase>
+                        </rate>
+                        <link>
+                            <mediatype>video</mediatype>
+                            <trackindex>1</trackindex>
+                            <clipindex>3</clipindex>
+                        </link>
+                        <link>
+                            <mediatype>audio</mediatype>
+                            <trackindex>1</trackindex>
+                            <clipindex>3</clipindex>
+                            <groupindex>1</groupindex>
+                        </link>
+                        <link>
+                            <mediatype>audio</mediatype>
+                            <trackindex>2</trackindex>
+                            <clipindex>3</clipindex>
+                            <groupindex>1</groupindex>
+                        </link>
+                    </clipitem>
+                    <transitionitem>
+                        <start>2080</start>
+                        <end>2221</end>
+                        <alignment>center</alignment>
+                        <effect>
+                            <name>Cross Dissolve</name>
+                            <effectid>Cross Dissolve</effectid>
+                            <effecttype>transition</effecttype>
+                            <mediatype>video</mediatype>
+                            <effectcategory>Dissolve</effectcategory>
+                        </effect>
+                    </transitionitem>
+                    <clipitem>
+                        <file id="/Users/michaelmcneill/Movies/iMovie Events.localized/New Event/Wild Geese.mov">
+                            <pathurl>file://localhost/Users/michaelmcneill/Movies/iMovie%20Events.localized/New%20Event/Wild%20Geese.mov</pathurl>
+                            <duration>17256</duration>
+                            <name>Wild Geese.mov</name>
+                            <rate>
+                                <ntsc>TRUE</ntsc>
+                                <timebase>30</timebase>
+                            </rate>
+                            <media>
+                                <video></video>
+                                <audio></audio>
+                            </media>
+                        </file>
+                        <name>Wild Geese.mov</name>
+                        <duration>17256</duration>
+                        <start>-1</start>
+                        <end>-1</end>
+                        <in>3126</in>
+                        <out>4311</out>
+                        <rate>
+                            <ntsc>TRUE</ntsc>
+                            <timebase>30</timebase>
+                        </rate>
+                        <link>
+                            <mediatype>video</mediatype>
+                            <trackindex>1</trackindex>
+                            <clipindex>5</clipindex>
+                        </link>
+                        <link>
+                            <mediatype>audio</mediatype>
+                            <trackindex>1</trackindex>
+                            <clipindex>5</clipindex>
+                            <groupindex>1</groupindex>
+                        </link>
+                        <link>
+                            <mediatype>audio</mediatype>
+                            <trackindex>2</trackindex>
+                            <clipindex>5</clipindex>
+                            <groupindex>1</groupindex>
+                        </link>
+                    </clipitem>
+                    <transitionitem>
+                        <start>3124</start>
+                        <end>3265</end>
+                        <alignment>center</alignment>
+                        <effect>
+                            <name>Cross Dissolve</name>
+                            <effectid>Cross Dissolve</effectid>
+                            <effecttype>transition</effecttype>
+                            <mediatype>video</mediatype>
+                            <effectcategory>Dissolve</effectcategory>
+                        </effect>
+                    </transitionitem>
+                    <clipitem>
+                        <file id="/Users/michaelmcneill/Movies/iMovie Events.localized/New Event/Kızılcıklar Oldu mu_.mov">
+                            <pathurl>file://localhost/Users/michaelmcneill/Movies/iMovie%20Events.localized/New%20Event/K%C4%B1z%C4%B1lc%C4%B1klar%20Oldu%20mu_.mov</pathurl>
+                            <duration>7438</duration>
+                            <name>KÄ±zÄ±lcÄ±klar Oldu mu_.mov</name>
+                            <rate>
+                                <ntsc>TRUE</ntsc>
+                                <timebase>30</timebase>
+                            </rate>
+                            <media>
+                                <video></video>
+                                <audio></audio>
+                            </media>
+                        </file>
+                        <name>KÄ±zÄ±lcÄ±klar Oldu mu_.mov</name>
+                        <duration>7438</duration>
+                        <start>-1</start>
+                        <end>-1</end>
+                        <in>2978</in>
+                        <out>3866</out>
+                        <rate>
+                            <ntsc>TRUE</ntsc>
+                            <timebase>30</timebase>
+                        </rate>
+                        <link>
+                            <mediatype>video</mediatype>
+                            <trackindex>1</trackindex>
+                            <clipindex>7</clipindex>
+                        </link>
+                        <link>
+                            <mediatype>audio</mediatype>
+                            <trackindex>1</trackindex>
+                            <clipindex>7</clipindex>
+                            <groupindex>1</groupindex>
+                        </link>
+                        <link>
+                            <mediatype>audio</mediatype>
+                            <trackindex>2</trackindex>
+                            <clipindex>7</clipindex>
+                            <groupindex>1</groupindex>
+                        </link>
+                    </clipitem>
+                    <transitionitem>
+                        <start>3871</start>
+                        <end>4012</end>
+                        <alignment>center</alignment>
+                        <effect>
+                            <name>Cross Dissolve</name>
+                            <effectid>Cross Dissolve</effectid>
+                            <effecttype>transition</effecttype>
+                            <mediatype>video</mediatype>
+                            <effectcategory>Dissolve</effectcategory>
+                        </effect>
+                    </transitionitem>
+                    <clipitem>
+                        <file id="/Users/michaelmcneill/Movies/iMovie Events.localized/New Event/Migration 1.mov"></file>
+                        <name>Migration 1.mov</name>
+                        <duration>12469</duration>
+                        <start>-1</start>
+                        <end>-1</end>
+                        <in>3423</in>
+                        <out>4630</out>
+                        <rate>
+                            <ntsc>TRUE</ntsc>
+                            <timebase>30</timebase>
+                        </rate>
+                        <link>
+                            <mediatype>video</mediatype>
+                            <trackindex>1</trackindex>
+                            <clipindex>9</clipindex>
+                        </link>
+                        <link>
+                            <mediatype>audio</mediatype>
+                            <trackindex>1</trackindex>
+                            <clipindex>9</clipindex>
+                            <groupindex>1</groupindex>
+                        </link>
+                        <link>
+                            <mediatype>audio</mediatype>
+                            <trackindex>2</trackindex>
+                            <clipindex>9</clipindex>
+                            <groupindex>1</groupindex>
+                        </link>
+                    </clipitem>
+                    <transitionitem>
+                        <start>4937</start>
+                        <end>5078</end>
+                        <alignment>center</alignment>
+                        <effect>
+                            <name>Cross Dissolve</name>
+                            <effectid>Cross Dissolve</effectid>
+                            <effecttype>transition</effecttype>
+                            <mediatype>video</mediatype>
+                            <effectcategory>Dissolve</effectcategory>
+                        </effect>
+                    </transitionitem>
+                    <clipitem>
+                        <file id="/Users/michaelmcneill/Movies/iMovie Events.localized/New Event/Migration 1.mov"></file>
+                        <name>Migration 1.mov</name>
+                        <duration>12469</duration>
+                        <start>-1</start>
+                        <end>-1</end>
+                        <in>9667</in>
+                        <out>12314</out>
+                        <rate>
+                            <ntsc>TRUE</ntsc>
+                            <timebase>30</timebase>
+                        </rate>
+                        <link>
+                            <mediatype>video</mediatype>
+                            <trackindex>1</trackindex>
+                            <clipindex>11</clipindex>
+                        </link>
+                        <link>
+                            <mediatype>audio</mediatype>
+                            <trackindex>1</trackindex>
+                            <clipindex>11</clipindex>
+                            <groupindex>1</groupindex>
+                        </link>
+                        <link>
+                            <mediatype>audio</mediatype>
+                            <trackindex>2</trackindex>
+                            <clipindex>11</clipindex>
+                            <groupindex>1</groupindex>
+                        </link>
+                    </clipitem>
+                    <transitionitem>
+                        <start>7344</start>
+                        <end>7584</end>
+                        <alignment>center</alignment>
+                        <effect>
+                            <name>Cross Dissolve</name>
+                            <effectid>Cross Dissolve</effectid>
+                            <effecttype>transition</effecttype>
+                            <mediatype>video</mediatype>
+                            <effectcategory>Dissolve</effectcategory>
+                        </effect>
+                    </transitionitem>
+                </track>
+                <track></track>
+            </video>
+            <audio>
+                <track>
+                    <clipitem>
+                        <file id="/Users/michaelmcneill/Movies/iMovie Events.localized/New Event/Migration 1.mov"></file>
+                        <name>Migration 1.mov</name>
+                        <duration>12469</duration>
+                        <start>0</start>
+                        <end>-1</end>
+                        <in>0</in>
+                        <out>1109</out>
+                        <rate>
+                            <ntsc>TRUE</ntsc>
+                            <timebase>30</timebase>
+                        </rate>
+                    </clipitem>
+                    <transitionitem>
+                        <start>968</start>
+                        <end>1109</end>
+                        <alignment>center</alignment>
+                        <effect>
+                            <name>Cross Fade (+3dB)</name>
+                            <effecttype>transition</effecttype>
+                            <mediatype>audio</mediatype>
+                        </effect>
+                    </transitionitem>
+                    <clipitem>
+                        <file id="/Users/michaelmcneill/Movies/iMovie Events.localized/New Event/Interlude.mov"></file>
+                        <name>Interlude.mov</name>
+                        <duration>6904</duration>
+                        <start>-1</start>
+                        <end>-1</end>
+                        <in>1243</in>
+                        <out>2496</out>
+                        <rate>
+                            <ntsc>TRUE</ntsc>
+                            <timebase>30</timebase>
+                        </rate>
+                        <filter>
+                            <effect>
+                                <name>Audio Levels</name>
+                                <effectid>audiolevels</effectid>
+                                <effectcategory>audiolevels</effectcategory>
+                                <effecttype>audiolevels</effecttype>
+                                <mediatype>audio</mediatype>
+                                <parameter>
+                                    <name>Level</name>
+                                    <parameterid>level</parameterid>
+                                    <keyframe>
+                                        <when>2433</when>
+                                        <value>1.000000</value>
+                                    </keyframe>
+                                    <keyframe>
+                                        <when>2496</when>
+                                        <value>0</value>
+                                    </keyframe>
+                                </parameter>
+                            </effect>
+                        </filter>
+                    </clipitem>
+                    <transitionitem>
+                        <start>2080</start>
+                        <end>2221</end>
+                        <alignment>center</alignment>
+                        <effect>
+                            <name>Cross Fade (+3dB)</name>
+                            <effecttype>transition</effecttype>
+                            <mediatype>audio</mediatype>
+                        </effect>
+                    </transitionitem>
+                    <clipitem>
+                        <file id="/Users/michaelmcneill/Movies/iMovie Events.localized/New Event/Wild Geese.mov"></file>
+                        <name>Wild Geese.mov</name>
+                        <duration>17256</duration>
+                        <start>-1</start>
+                        <end>-1</end>
+                        <in>3126</in>
+                        <out>4311</out>
+                        <rate>
+                            <ntsc>TRUE</ntsc>
+                            <timebase>30</timebase>
+                        </rate>
+                    </clipitem>
+                    <transitionitem>
+                        <start>3124</start>
+                        <end>3265</end>
+                        <alignment>center</alignment>
+                        <effect>
+                            <name>Cross Fade (+3dB)</name>
+                            <effecttype>transition</effecttype>
+                            <mediatype>audio</mediatype>
+                        </effect>
+                    </transitionitem>
+                    <clipitem>
+                        <file id="/Users/michaelmcneill/Movies/iMovie Events.localized/New Event/Kızılcıklar Oldu mu_.mov"></file>
+                        <name>KÄ±zÄ±lcÄ±klar Oldu mu_.mov</name>
+                        <duration>7438</duration>
+                        <start>-1</start>
+                        <end>-1</end>
+                        <in>2978</in>
+                        <out>3866</out>
+                        <rate>
+                            <ntsc>TRUE</ntsc>
+                            <timebase>30</timebase>
+                        </rate>
+                    </clipitem>
+                    <transitionitem>
+                        <start>3871</start>
+                        <end>4012</end>
+                        <alignment>center</alignment>
+                        <effect>
+                            <name>Cross Fade (+3dB)</name>
+                            <effecttype>transition</effecttype>
+                            <mediatype>audio</mediatype>
+                        </effect>
+                    </transitionitem>
+                    <clipitem>
+                        <file id="/Users/michaelmcneill/Movies/iMovie Events.localized/New Event/Migration 1.mov"></file>
+                        <name>Migration 1.mov</name>
+                        <duration>12469</duration>
+                        <start>-1</start>
+                        <end>-1</end>
+                        <in>3423</in>
+                        <out>4630</out>
+                        <rate>
+                            <ntsc>TRUE</ntsc>
+                            <timebase>30</timebase>
+                        </rate>
+                    </clipitem>
+                    <transitionitem>
+                        <start>4937</start>
+                        <end>5078</end>
+                        <alignment>center</alignment>
+                        <effect>
+                            <name>Cross Fade (+3dB)</name>
+                            <effecttype>transition</effecttype>
+                            <mediatype>audio</mediatype>
+                        </effect>
+                    </transitionitem>
+                    <clipitem>
+                        <file id="/Users/michaelmcneill/Movies/iMovie Events.localized/New Event/Migration 1.mov"></file>
+                        <name>Migration 1.mov</name>
+                        <duration>12469</duration>
+                        <start>-1</start>
+                        <end>-1</end>
+                        <in>9667</in>
+                        <out>12314</out>
+                        <rate>
+                            <ntsc>TRUE</ntsc>
+                            <timebase>30</timebase>
+                        </rate>
+                    </clipitem>
+                    <transitionitem>
+                        <start>7344</start>
+                        <end>7584</end>
+                        <alignment>center</alignment>
+                        <effect>
+                            <name>Cross Fade (+3dB)</name>
+                            <effecttype>transition</effecttype>
+                            <mediatype>audio</mediatype>
+                        </effect>
+                    </transitionitem>
+                </track>
+                <track>
+                    <clipitem>
+                        <file id="/Users/michaelmcneill/Movies/iMovie Events.localized/New Event/Migration 1.mov"></file>
+                        <name>Migration 1.mov</name>
+                        <duration>12469</duration>
+                        <start>0</start>
+                        <end>-1</end>
+                        <in>0</in>
+                        <out>1109</out>
+                        <rate>
+                            <ntsc>TRUE</ntsc>
+                            <timebase>30</timebase>
+                        </rate>
+                    </clipitem>
+                    <transitionitem>
+                        <start>968</start>
+                        <end>1109</end>
+                        <alignment>center</alignment>
+                        <effect>
+                            <name>Cross Fade (+3dB)</name>
+                            <effecttype>transition</effecttype>
+                            <mediatype>audio</mediatype>
+                        </effect>
+                    </transitionitem>
+                    <clipitem>
+                        <file id="/Users/michaelmcneill/Movies/iMovie Events.localized/New Event/Interlude.mov"></file>
+                        <name>Interlude.mov</name>
+                        <duration>6904</duration>
+                        <start>-1</start>
+                        <end>-1</end>
+                        <in>1243</in>
+                        <out>2496</out>
+                        <rate>
+                            <ntsc>TRUE</ntsc>
+                            <timebase>30</timebase>
+                        </rate>
+                        <filter>
+                            <effect>
+                                <name>Audio Levels</name>
+                                <effectid>audiolevels</effectid>
+                                <effectcategory>audiolevels</effectcategory>
+                                <effecttype>audiolevels</effecttype>
+                                <mediatype>audio</mediatype>
+                                <parameter>
+                                    <name>Level</name>
+                                    <parameterid>level</parameterid>
+                                    <keyframe>
+                                        <when>2433</when>
+                                        <value>1.000000</value>
+                                    </keyframe>
+                                    <keyframe>
+                                        <when>2496</when>
+                                        <value>0</value>
+                                    </keyframe>
+                                </parameter>
+                            </effect>
+                        </filter>
+                    </clipitem>
+                    <transitionitem>
+                        <start>2080</start>
+                        <end>2221</end>
+                        <alignment>center</alignment>
+                        <effect>
+                            <name>Cross Fade (+3dB)</name>
+                            <effecttype>transition</effecttype>
+                            <mediatype>audio</mediatype>
+                        </effect>
+                    </transitionitem>
+                    <clipitem>
+                        <file id="/Users/michaelmcneill/Movies/iMovie Events.localized/New Event/Wild Geese.mov"></file>
+                        <name>Wild Geese.mov</name>
+                        <duration>17256</duration>
+                        <start>-1</start>
+                        <end>-1</end>
+                        <in>3126</in>
+                        <out>4311</out>
+                        <rate>
+                            <ntsc>TRUE</ntsc>
+                            <timebase>30</timebase>
+                        </rate>
+                    </clipitem>
+                    <transitionitem>
+                        <start>3124</start>
+                        <end>3265</end>
+                        <alignment>center</alignment>
+                        <effect>
+                            <name>Cross Fade (+3dB)</name>
+                            <effecttype>transition</effecttype>
+                            <mediatype>audio</mediatype>
+                        </effect>
+                    </transitionitem>
+                    <clipitem>
+                        <file id="/Users/michaelmcneill/Movies/iMovie Events.localized/New Event/Kızılcıklar Oldu mu_.mov"></file>
+                        <name>KÄ±zÄ±lcÄ±klar Oldu mu_.mov</name>
+                        <duration>7438</duration>
+                        <start>-1</start>
+                        <end>-1</end>
+                        <in>2978</in>
+                        <out>3866</out>
+                        <rate>
+                            <ntsc>TRUE</ntsc>
+                            <timebase>30</timebase>
+                        </rate>
+                    </clipitem>
+                    <transitionitem>
+                        <start>3871</start>
+                        <end>4012</end>
+                        <alignment>center</alignment>
+                        <effect>
+                            <name>Cross Fade (+3dB)</name>
+                            <effecttype>transition</effecttype>
+                            <mediatype>audio</mediatype>
+                        </effect>
+                    </transitionitem>
+                    <clipitem>
+                        <file id="/Users/michaelmcneill/Movies/iMovie Events.localized/New Event/Migration 1.mov"></file>
+                        <name>Migration 1.mov</name>
+                        <duration>12469</duration>
+                        <start>-1</start>
+                        <end>-1</end>
+                        <in>3423</in>
+                        <out>4630</out>
+                        <rate>
+                            <ntsc>TRUE</ntsc>
+                            <timebase>30</timebase>
+                        </rate>
+                    </clipitem>
+                    <transitionitem>
+                        <start>4937</start>
+                        <end>5078</end>
+                        <alignment>center</alignment>
+                        <effect>
+                            <name>Cross Fade (+3dB)</name>
+                            <effecttype>transition</effecttype>
+                            <mediatype>audio</mediatype>
+                        </effect>
+                    </transitionitem>
+                    <clipitem>
+                        <file id="/Users/michaelmcneill/Movies/iMovie Events.localized/New Event/Migration 1.mov"></file>
+                        <name>Migration 1.mov</name>
+                        <duration>12469</duration>
+                        <start>-1</start>
+                        <end>-1</end>
+                        <in>9667</in>
+                        <out>12314</out>
+                        <rate>
+                            <ntsc>TRUE</ntsc>
+                            <timebase>30</timebase>
+                        </rate>
+                    </clipitem>
+                    <transitionitem>
+                        <start>7344</start>
+                        <end>7584</end>
+                        <alignment>center</alignment>
+                        <effect>
+                            <name>Cross Fade (+3dB)</name>
+                            <effecttype>transition</effecttype>
+                            <mediatype>audio</mediatype>
+                        </effect>
+                    </transitionitem>
+                </track>
+                <track></track>
+                <track></track>
+            </audio>
+        </media>
+        <duration>7584</duration>
+    </sequence>
+</xmeml>
