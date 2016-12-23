@@ -56,7 +56,10 @@ html, body {
 
 .header .nav-tabs a {
     color: #000;
-    border: 0px;
+    border-top, 
+    border-left, 
+    border-right: 0px;
+    border-bottom: 1px solid #ffffff;
 }
 
 .header .nav-tabs a:hover {
