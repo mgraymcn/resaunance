@@ -98,9 +98,9 @@ html, body {
 .jumbotron_album iframe {
     border: 0;
     max-width: 100%;
-    /* background while iframe loads */
+    /* background while iframe loads
     background: url('Migration%20cover%20larger.jpg') no-repeat;
-    background-size: 350px 350px;
+    background-size: 350px 350px; */
 }
 
 .jumbotron_buy {
